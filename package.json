@@ -1,0 +1,4 @@
+{"scripts": {
+    "functions": "cd functions && npm install"
+  }
+}
